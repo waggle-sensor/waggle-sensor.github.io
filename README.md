@@ -2,9 +2,9 @@
 * __09:00 Introduction:__ Welcome, Workshop Outcomes
 * __09:10 SAGE Vision:__ AI@Edge as an Enabling Architecture
 * __09:45 Plenary 1:__ Convergent Science Driving Measurement Capabilities
-	_Moderator:_ Dan Reed, Utah
-	Purpose: Begin to Form a set of science questions that will drive SAGE, with testable hypotheses that require SAGE research infrastructure to measure.
-	Format: Each panelist will address the following:
+	- _Moderator:_ Dan Reed, Utah
+	- Purpose: Begin to Form a set of science questions that will drive SAGE, with testable hypotheses that require SAGE research infrastructure to measure.
+	- Format: Each panelist will address the following:
 		* What science does today’s instruments support (for me)
 		* What unique new measurements will AI@Edge enable
 		* What testable hypothesis might we investigate with these new measurements
