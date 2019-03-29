@@ -1,59 +1,26 @@
-# AI@Edge and Software-Defined Sensors for National Research Infrastructure
-## April 29-30, 2019, Argonne National Laboratory
+## AI@Edge and Software-Defined Sensors for National Research Infrastructure
+### April 29-30, 2019, Argonne National Laboratory
 
 #### April 29:  Plenary 
 * 09:00 Introduction: Welcome, Workshop Outcomes
 * 09:10 SAGE Vision: AI@Edge as an Enabling Architecture
 * 09:45 Plenary 1: Convergent Science Driving Measurement Capabilities
-
 *Moderator:* Dan Reed, Utah
-Purpose:Begin to Form a set of science questions that will drive SAGE, with testable hypotheses that require SAGE research infrastructure to measure.
+Purpose: Begin to Form a set of science questions that will drive SAGE, with testable hypotheses that require SAGE research infrastructure to measure.
 Format: Each panelist will address the following:
 		* What science does today’s instruments support (for me)
 		* What unique new measurements will AI@Edge enable
 		* What testable hypothesis might we investigate with these new measurements
 
 
-Describe
- the national-scale experiment that could leverage AI@Edge in NEON, AoT, ARM, HPWREN, LPZoo, etc. to test this hypothesis.
+Describe the national-scale experiment that could leverage AI@Edge in NEON, AoT, ARM, HPWREN, LPZoo, etc. to test this hypothesis.
 
-Panelists:
+Panelists: Jim Olds, GMU; Christina Negri, UChicago; Eugene Kelly, CSU; Dan Work, Vanderbilt; Ilkay Altintas, SDSC; Howard Nusbaum, UChicago
+Panel Discussion:
+What Convergent Questions Cut Across Many Scales? Disciplines?
 
-Jim
- Olds, GMU
-
-
-Christina
- Negri, UChicago
-
-
-Eugene
- Kelly, CSU
-
-
-Dan
- Work, Vanderbilt
-
-
-Ilkay
- Altintas, SDSC
-
-
-Howard
- Nusbaum, UChicago
-
-Panel
- Discussion:
-
-What
- Convergent Questions Cut Across Many Scales? Disciplines?
-
-
-11:15
-Break
-
-11:30  Plenary 2: Architecture
- of a National Infrastructure
+* 11:15 Break
+* 11:30  Plenary 2: Architecture of a National Infrastructure
 
 Moderator:
  Pete Beckman, NU
