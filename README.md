@@ -7,26 +7,11 @@
 * 09:45 Plenary 1: Convergent Science Driving Measurement Capabilities
 
 *Moderator:* Dan Reed, Utah
-
-
-Purpose:
- Begin to Form a set of science questions that will drive SAGE, with testable hypotheses that require SAGE research infrastructure to measure.
-
-
-Format:
- Each panelist will address the following:
-
-
-What
- science does today’s instruments support (for me)
-
-
-What
- unique new measurements will AI@Edge enable
-
-
-What
- testable hypothesis might we investigate with these new measurements
+Purpose:Begin to Form a set of science questions that will drive SAGE, with testable hypotheses that require SAGE research infrastructure to measure.
+Format: Each panelist will address the following:
+		* What science does today’s instruments support (for me)
+		* What unique new measurements will AI@Edge enable
+		* What testable hypothesis might we investigate with these new measurements
 
 
 Describe
