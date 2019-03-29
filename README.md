@@ -1,7 +1,4 @@
-## AI@Edge and Software-Defined Sensors for National Research Infrastructure
-### April 29-30, 2019, Argonne National Laboratory
-
-#### April 29:  Plenary 
+## April 29:  Plenary 
 * 09:00 Introduction: Welcome, Workshop Outcomes
 * 09:10 SAGE Vision: AI@Edge as an Enabling Architecture
 * 09:45 Plenary 1: Convergent Science Driving Measurement Capabilities
