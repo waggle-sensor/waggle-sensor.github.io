@@ -1,56 +1,28 @@
 ## April 29:  Plenary 
-* __09:00 Introduction:__ Welcome, Workshop Outcomes
-* __09:10 SAGE Vision:__ AI@Edge as an Enabling Architecture
-* __09:45 Plenary 1:__ Convergent Science Driving Measurement Capabilities
-	- _Moderator:_ Dan Reed, Utah
+* __09:00 Introduction:__ _Welcome, Workshop Outcomes_
+* __09:10 SAGE Vision:__ _AI@Edge as an Enabling Architecture_
+* __09:45 Plenary 1:__ _Convergent Science Driving Measurement Capabilities_
+	- Moderator: Dan Reed, Utah
 	- Purpose: Begin to Form a set of science questions that will drive SAGE, with testable hypotheses that require SAGE research infrastructure to measure.
 	- Format: Each panelist will address the following:
 		* What science does today’s instruments support (for me)
 		* What unique new measurements will AI@Edge enable
 		* What testable hypothesis might we investigate with these new measurements
+		* Describe the national-scale experiment that could leverage AI@Edge in NEON, AoT, ARM, HPWREN, LPZoo, etc. to test this hypothesis.
+	- Panelists: Jim Olds, GMU; Christina Negri, UChicago; Eugene Kelly, CSU; Dan Work, Vanderbilt; Ilkay Altintas, SDSC; Howard Nusbaum, UChicago
+	- Panel Discussion: What Convergent Questions Cut Across Many Scales? Disciplines?
 
-
-Describe the national-scale experiment that could leverage AI@Edge in NEON, AoT, ARM, HPWREN, LPZoo, etc. to test this hypothesis.
-
-Panelists: Jim Olds, GMU; Christina Negri, UChicago; Eugene Kelly, CSU; Dan Work, Vanderbilt; Ilkay Altintas, SDSC; Howard Nusbaum, UChicago
-Panel Discussion:
-What Convergent Questions Cut Across Many Scales? Disciplines?
-
-* 11:15 Break
-* 11:30  Plenary 2: Architecture of a National Infrastructure
-
-Moderator:
- Pete Beckman, NU
-
-
-Purpose:
- Establish a common vision for exactly what SAGE will look like and how it will provide measurements to examine the convergent science questions.
-
-
-Format:
- Short talks each outlining vision for some facet of SAGE
-
-
-
-Vision:
- An Integrated Research Infrastructure (Beckman, 30 min)
-
-
-Resilient
- Edge Computing Hardware and New Sensors (Sankaran, 10 min)
-
-
-Programming
- Environment and Data Pipeline (Keahy, 10 min)
-
-
-ML
- Inference at the Edge and Training in the Cloud (Ferrier, 10 min)
-
-
-12:30
-Lunch
-13:30 Plenary 3: SAGE Partner
+* __11:15 Break__
+* __11:30  Plenary 2:__ Architecture of a National Infrastructure
+	- Moderator: Pete Beckman, NU
+	- Purpose: Establish a common vision for exactly what SAGE will look like and how it will provide measurements to examine the convergent science questions.
+	- Format: Short talks each outlining vision for some facet of SAGE
+	- Vision: An Integrated Research Infrastructure (Beckman, 30 min)
+	- Resilient Edge Computing Hardware and New Sensors (Sankaran, 10 min)
+	- Programming Environment and Data Pipeline (Keahy, 10 min)
+	- ML Inference at the Edge and Training in the Cloud (Ferrier, 10 min)
+* __12:30 Lunch__
+* __13:30 Plenary 3:__ SAGE Partner
  Instruments: How Will AI@Edge Be Integrated
 Moderator: Charlie Catlett, UChicago
 Purpose: Preliminary descriptions
