@@ -7,7 +7,7 @@ The scientific community has extensive experience building distributed instrumen
 
 ## This workshop will focus on the science enabled by a national research infrastructure that supports AI at the edge and software-defined sensors.
 
-### *Agenda*: [DRAFT](agenda.md)
+### **Agenda**: [DRAFT](agenda.md)
 
 ### *Dates*: 9:00-17:00 April 29, 9:00-15:30 April 30
 
