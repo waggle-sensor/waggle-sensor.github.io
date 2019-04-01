@@ -1,4 +1,5 @@
 # AI@Edge and Software-Defined Sensors for National Research Infrastructure
+## April 29-30, 2019, Argonne National Laboratory
 
 Today, billions of connected devices are sensing and interacting with our physical world. In the next few years, Internet of Things (IoT) devices will exceed the population of the planet. Currently, most of these devices are relatively simple—reporting on environmental and mechanical conditions or providing remote actuation for cyberphysical systems. However, a revolution is underway, and it will transform every corner of society. Fueled by advances in artificial intelligence (AI), machine learning (ML) and pervasive wireless, smart edge computers are becoming a new, vital component of our global cyberinfrastructure. Instead of just chirping bits of sensor data to the cloud, these new edge devices are _analyzing_ and _responding_ to massive volumes of input data. They can be autonomous, giving reflexes to distributed, intelligent infrastructure.  They can learn from their surroundings. 
 
