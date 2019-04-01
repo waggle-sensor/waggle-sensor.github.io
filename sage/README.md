@@ -18,8 +18,8 @@ The scientific community has extensive experience building distributed instrumen
 (https://apps.anl.gov/registration/visitors/new?sponsor_email=dzielski@mcs.anl.gov)
 
 ### Hotel Accomodations (participants must make their own arrangements):
-1) Within walking distance: [Argonne Guest House](https://www.anlgh.org/Request-Reservations)
-2) Shuttle or drive: [nearby hotels](https://www.anl.gov/area-accommodations) 
+Within walking distance: [Argonne Guest House](https://www.anlgh.org/Request-Reservations)
+Shuttle or drive: [nearby hotels](https://www.anl.gov/area-accommodations) 
 
 
 
