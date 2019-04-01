@@ -9,6 +9,16 @@ The scientific community has extensive experience building distributed instrumen
 
 ### [Agenda](agenda.md)
 
-### Location:  
+### Dates: 9:00-17:00 April 29, 9:00-15:30 April 30
+
+### Location:  Argonne National Laboratory, TCS Conference Center, Bldg 240, Room 1416
+
+### Registration:  Participants *MUST* [register by April 12th](https://apps.anl.gov/registration/visitors/new?sponsor_email=dzielski@mcs.anl.gov)
+
+### Hotel Accomodations (participants must make their own arrangements):
+1) Within walking distance: [Argonne Guest House](https://www.anlgh.org/Request-Reservations)
+2) Shuttle or drive: [nearby hotels](https://www.anl.gov/area-accommodations) 
+
+
 
 
