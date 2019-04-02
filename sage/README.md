@@ -8,16 +8,16 @@ The scientific community has extensive experience building distributed instrumen
 __This workshop will focus on the science enabled by a national research infrastructure that supports AI at the edge and software-defined sensors.__
 
 <BR>
-### **Agenda:** [DRAFT](agenda.md)
+#### **Agenda:** [DRAFT](agenda.md)
 
-### **Dates:** 9:00-17:00 April 29, 9:00-15:30 April 30
+#### **Dates:** 9:00-17:00 April 29, 9:00-15:30 April 30
 
-### **Location:**  Argonne National Laboratory, TCS Conference Center, Bldg 240, Room 1416
+#### **Location:**  Argonne National Laboratory, TCS Conference Center, Bldg 240, Room 1416
 
-### **Registration:**  Participants *MUST* register by April 12th:
+#### **Registration:**  Participants *MUST* register by April 12th:
 [https://apps.anl.gov/registration/visitors/new?sponsor_email=dzielski@mcs.anl.gov](https://apps.anl.gov/registration/visitors/new?sponsor_email=dzielski@mcs.anl.gov)
 
-### **Hotel Accomodations:** (participants must make their own arrangements):
+#### **Hotel Accomodations:** (participants must make their own arrangements):
 Within walking distance: [Argonne Guest House](https://www.anlgh.org/Request-Reservations)
 Shuttle or drive: [nearby hotels](https://www.anl.gov/area-accommodations) 
 
