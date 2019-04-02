@@ -1,6 +1,4 @@
-#theme: jekyll-theme-cayman
 theme: jekyll-theme-primer
-#title: Waggle
-#theme: jekyll-theme-cayman
+title: Waggle
 #title: AI@Edge and Software-Defined Sensors for National Research Infrastructure
-#description: An Open Platform for AI@Edge Computing
+description: An Open Platform for AI@Edge Computing
