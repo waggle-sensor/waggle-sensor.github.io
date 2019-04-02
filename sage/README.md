@@ -13,8 +13,8 @@ __This workshop will focus on the science enabled by a national research infrast
 #### **Registration:**  Participants *MUST* register by April 12th:
 [https://apps.anl.gov/registration/visitors/new?sponsor_email=dzielski@mcs.anl.gov](https://apps.anl.gov/registration/visitors/new?sponsor_email=dzielski@mcs.anl.gov)
 #### **Hotel Accomodations:** (participants must make their own arrangements):
-Within walking distance: [Argonne Guest House](https://www.anlgh.org/Request-Reservations)
-Shuttle or drive: [nearby hotels](https://www.anl.gov/area-accommodations) 
+  * Within walking distance: [Argonne Guest House](https://www.anlgh.org/Request-Reservations)
+  * Shuttle or drive: [nearby hotels](https://www.anl.gov/area-accommodations) 
 
 
 
