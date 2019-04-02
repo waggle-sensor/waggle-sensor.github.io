@@ -5,9 +5,7 @@ Today, billions of connected devices are sensing and interacting with our physic
 
 The scientific community has extensive experience building distributed instruments. The U.S. National Ecological Observation Network (NEON) measures natural systems at a continental scale. NSF’s Array of Things (AoT) measures urban environments, air pollutants, and human activity. The Atmospheric Radiation Measurement (ARM) User Facility has deployments around the globe, with fixed sites in Alaska, the Azores, and Oklahoma and mobile facilities which have deployed from the poles to the equator. The High Performance Wireless Research and Education Network (HPWREN) provides real-time measurements of natural phenomena in Southern California, from earthquakes to wildfires. Chicago’s Lincoln Park Zoo operates the Urban Wildlife Institute (UWI), using remote sensors and cameras to monitor the movement of wildlife throughout Chicago. These distributed instruments and many others are now exploring how AI@Edge could provide new capabilities that could help us address science questions that were previously out of reach.
 
-***
 __This workshop will focus on the science enabled by a national research infrastructure that supports AI at the edge and software-defined sensors.__
-***
 
 <BR>
 ### **Agenda:** [DRAFT](agenda.md)
