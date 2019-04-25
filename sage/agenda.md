@@ -78,4 +78,4 @@ Charter: Outline project work plans, operational requirements, and sustainable s
 * __13:30 Working Group Leads and Scribes Convene__
 	- Purpose: Create a draft of the proposal, identify holes and outline changes needed, review proposal completion schedule (proposal is due May 20, 2019)
 
-15:30 adjourn 
+* __15:30 Adjourn__ 
