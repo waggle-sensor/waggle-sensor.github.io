@@ -1,4 +1,4 @@
-## April 29:  Plenary 
+## April 29:  Plenary (TCS Conference Rooms 1404-1405)
 * __09:00 Introduction:__ _Welcome, Workshop Outcomes_
 * __09:10 SAGE Vision:__ _AI@Edge as an Enabling Architecture (Rick Stevens)_
 * __09:45 Plenary 1:__ _Convergent Science Driving Measurement Capabilities_
@@ -62,7 +62,7 @@ Charter: Outline broadening participation, training, and education efforts inclu
 	- D. Project Management, Construction, Operation (Charlie Catlett, UChicago; Brenna Berman, City Tech)
 Charter: Outline project work plans, operational requirements, and sustainable support plan.
 
-## April 30: Working Group Breakout Sessions
+## April 30: Working Group Breakout Sessions (TCS Conference Center, and rooms to be announced)
 * __09:00  Working Groups Session 1: Survey, Inventory, Outline__
 	- Purpose: Refine and finalize outline of assigned proposal sections, lay out big questions, plans, etc. for each.  What are the “big take-away” messages for these sections?
 
