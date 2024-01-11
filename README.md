@@ -1,4 +1,10 @@
-### Waggle Website: [www.wa8.gl](http://www.wa8.gl)
-### Waggle GitHub: [waggle-sensor](https://github.com/waggle-sensor)
-### Upcoming Workshop: [AI@Edge](sage)
-### IPDPS Workshop: [PAISE2019](http://bit.ly/PAISE2019)
+# Waggle
+
+### Website: [Scientific AI at the Edge](http://www.wa8.gl)
+### GitHub: [An Edge Computing Platform for Artificial Intelligence and Sensing](https://github.com/waggle-sensor)
+
+# Sage
+
+### Website: [National-scale cyberinfrastructure to enable AI at the Edge for science](https://sagecontinuum.org/)
+### GitHub: [Sage Cyberinfrastructure for AI at the Edge](https://github.com/sagecontinuum)
+
