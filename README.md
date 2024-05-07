@@ -16,7 +16,7 @@
 * Apiary: [apiary.sagecontinuum.org](https://apiary.sagecontinuum.org/nodes)
 * Sage: [portal.sagecontinuum.org](https://portal.sagecontinuum.org/nodes)
 * DAWN: [dawn.sagecontinuum.org](https://dawn.sagecontinuum.org/nodes)
-* CROCUS: [crocus.apiary.sagecontinuum.org](https://crocus.sagecontinuum.org/nodes)
+* CROCUS: [crocus.sagecontinuum.org](https://crocus.sagecontinuum.org/nodes)
 
 ## Admin 
 * Admin: [Portal](https://admin.sagecontinuum.org)
