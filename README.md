@@ -7,7 +7,7 @@
 * GitHub: [Sage Cyberinfrastructure for AI at the Edge](https://github.com/sagecontinuum)
 * ECR: [Sage Apps](https://portal.sagecontinuum.org/apps/explore)
 * Documentation: [Getting Started with Sage](https://sagecontinuum.org/docs/about/overview)
-* Buying Sage Nodes: [Pricelist](https://github.com/sagecontinuum/sage/blob/master/platforms/pricelist.md)
+* Buying Sage Nodes: [Pricelist](https://github.com/sagecontinuum/sage/tree/master/platforms)
 
 ## DAWN
 * Github: [Getting Started with DAWN data](https://github.com/waggle-sensor/pandawn)
