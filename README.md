@@ -29,3 +29,6 @@
 
 ## Debugging 
 * GitHub Link: [Debugging Tools](https://github.com/waggle-sensor/devOps/tree/main/debugging)
+
+## Partner Resources 
+* OACISS: [Servers](https://systems.nic.uoregon.edu/internal-wiki/index.php?title=Category:Servers)
